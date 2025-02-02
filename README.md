@@ -1,5 +1,5 @@
 # เว็บไซต์สื่อการเรียนนการสอนคอมพิวเตอร์ เเละการบำรุงรักษา
-[https://www.youtube.com/watch?v=bZmfHun1kl4](https://e-learing-for-computer.web.app)
+[https://e-learing-for-computer.web.app](https://e-learing-for-computer.web.app)
 
 ## ขั้นตอนการลงโปรเจค
 
@@ -17,6 +17,7 @@ https://kb.hostatom.com/content/6104/
 ![image](https://github.com/user-attachments/assets/79aa726d-f213-4217-87b3-1f9fabab668e)
 
 5. พิมพ์ใน Command Prompt ว่า **npm run dev** เพื่อเปิดโปรเจค
+
 ![image](https://github.com/user-attachments/assets/38a7d61d-0c53-42c2-80af-bc2b60a976e3)
 
 7. พิมพ์เว็บ **http://localhost:5173** ในที่ใส่ลิงค์
