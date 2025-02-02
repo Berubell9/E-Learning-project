@@ -1,5 +1,5 @@
 # เว็บไซต์สื่อการเรียนนการสอนคอมพิวเตอร์ เเละการบำรุงรักษา
-##[https://e-learing-for-computer.web.app](https://e-learing-for-computer.web.app)
+## [https://e-learing-for-computer.web.app](https://e-learing-for-computer.web.app)
 
 ## ขั้นตอนการลงโปรเจค
 
@@ -26,5 +26,5 @@ https://kb.hostatom.com/content/6104/
 ## วิธี Deploy ขึ้น Hosting
 [https://www.youtube.com/watch?v=bZmfHun1kl4](https://www.youtube.com/watch?v=B7cUCfM4Wg4)
 
-##เล่มโปรเจค
-[https://docs.google.com/document/d/1kf0EGH_qzvQIj6hLxSlHIKPS5sUUZ_U5_RGUee0mhVE/edit?tab=t.0](https://docs.google.com/document/d/1kf0EGH_qzvQIj6hLxSlHIKPS5sUUZ_U5_RGUee0mhVE/edit?tab=t.0)
+# เล่มโปรเจค
+## [https://docs.google.com/document/d/1kf0EGH_qzvQIj6hLxSlHIKPS5sUUZ_U5_RGUee0mhVE/edit?tab=t.0](https://docs.google.com/document/d/1kf0EGH_qzvQIj6hLxSlHIKPS5sUUZ_U5_RGUee0mhVE/edit?tab=t.0)
